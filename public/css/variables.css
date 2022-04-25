@@ -432,4 +432,26 @@
     --color-scale-coral-7: #801F0F;
     --color-scale-coral-8: #691105;
     --color-scale-coral-9: #510901;
+
+
+
+
+    /* New Colors of Logo */
+    --theme-purple: #b36aff;
+    --theme-blue: #6aaeff;
+    --theme-sky: #6af8ff;
+    --theme-green: #2affde;
+    --theme-pink: #ff6af7;
+    --theme-skin: #ffbfcf;
+
+    --color1: var(--theme-purple);
+    --color2: var(--theme-blue);
+    --color3: var(--theme-sky);
+    --color4: var(--theme-green);
+    --color5: var(--theme-pink);
+    --color6: var(--theme-skin);
+
+
+
+
 }
