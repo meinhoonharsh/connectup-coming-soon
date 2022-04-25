@@ -384,7 +384,8 @@ a.btn.btn-dark:focus {
 .btn-color,
 a.btn-color {
   color: #fff;
-  background-color: #00ACC1;
+  /* background-color: #00ACC1; */
+  background: linear-gradient(to right, var(--color1), var(--color2));
 }
 
 .btn.btn-color:hover,
