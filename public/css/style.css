@@ -861,7 +861,8 @@ header {
 
 .overlay-opacity {
   filter: alpha(opacity=50);
-  opacity: 0.3;
+  /* opacity: 0.3; */
+  opacity: 0.1;
 }
 
 .overlay-opacity-2 {
