@@ -1,0 +1,19 @@
+.content-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    color: white;
+
+}
+
+.content-container img {
+    margin-bottom: 30px;
+}
+
+.content-container .btn-row {
+    margin-top: 20px;
+}
